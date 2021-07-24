@@ -5,4 +5,7 @@
 
 ## Running 
 
-# php -S [host]:[port]
+ ```bash
+ php -S [host]:[port]
+
+ ```
